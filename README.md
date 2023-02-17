@@ -49,12 +49,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/code-l0n3ly/stackoverflow-clone)
 
-This project was created for a college assignment, and saw it as an opportunity to share in my profile.
+This project was created for a college assignment, and its worth sharing in my profile.
 the project is to create a stackoverflow-like website with some functionality same as stackoverflow.
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +87,7 @@ Add the files to the web dir, before trying to use any function create the datab
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +135,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/code-l0n3ly/stackoverflow-clone/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yw39il
+[linkedin-url]: https://linkedin.com/in/ym39
 [product-screenshot]: assets/img/questions.png
 [JS.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
