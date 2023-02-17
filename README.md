@@ -54,6 +54,7 @@
 This project was created for a college assignment, and its worth sharing in my profile.
 the project is to create a stackoverflow-like website with some functionality same as stackoverflow.
 
+You can find extra demo photos in assets/img file - login - register and answer pages.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
