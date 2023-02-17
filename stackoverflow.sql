@@ -91,12 +91,6 @@ CREATE TABLE `users` (
   `created_at` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`uid`, `name`, `email`, `password`, `created_at`) VALUES
-(1, 'yousef almutairi', 'yw39il@gmail.com', 'Aa123123123', '2023-02-13 23:21:43');
 
 --
 -- Indexes for dumped tables
