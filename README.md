@@ -138,7 +138,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/code-l0n3ly/stackoverflow-clone/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yw39il
-[product-screenshot]: assets/img/q (1).png
+[product-screenshot]: assets/img/questions.png
 [JS.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [MySQL.com]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
